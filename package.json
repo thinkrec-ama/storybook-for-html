@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/thinkrec-ama/storybook-for-html#readme",
   "devDependencies": {
-    "@storybook/html": "^5.3.19"
+    "@babel/core": "^7.10.2",
+    "@storybook/html": "^5.3.19",
+    "babel-loader": "^8.1.0"
   }
 }
