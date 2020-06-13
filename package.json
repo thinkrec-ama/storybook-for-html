@@ -1,0 +1,23 @@
+{
+  "name": "storybook-for-html",
+  "version": "1.0.0",
+  "description": "Storybook for HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkrec-ama/storybook-for-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkrec-ama/storybook-for-html/issues"
+  },
+  "homepage": "https://github.com/thinkrec-ama/storybook-for-html#readme",
+  "devDependencies": {
+    "@storybook/html": "^5.3.19"
+  }
+}
